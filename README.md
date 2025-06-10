@@ -1,2 +1,2 @@
 # TradingExperiments
-Experimentación con arquitectura tan en Binance.
+Experimentación con arquitectura TCN en Binance.
